@@ -1,4 +1,4 @@
-# Computer Science Algoritms - Notes/Reference
+# Computer Science Algoritms - Notes/Examples
 
 Notes on computer science fundamental algorithms.
 
@@ -6,4 +6,4 @@ Notes on computer science fundamental algorithms.
     * Fibonacci sequence
     * Iterative vs. Recursive
 * Sorting
- 
+    * Bubble Sort
