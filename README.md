@@ -7,3 +7,4 @@ Notes on computer science fundamental algorithms.
     * Iterative vs. Recursive
 * Sorting
     * Bubble Sort
+    * Selection Sort
