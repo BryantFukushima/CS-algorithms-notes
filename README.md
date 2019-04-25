@@ -10,3 +10,4 @@ Notes on computer science fundamental algorithms.
     * Selection Sort
     * Insertion Sort
     * Merge Sort
+    * Quick Sort
