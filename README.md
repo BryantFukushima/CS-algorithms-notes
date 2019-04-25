@@ -8,3 +8,4 @@ Notes on computer science fundamental algorithms.
 * Sorting
     * Bubble Sort
     * Selection Sort
+    * Insertion Sort
