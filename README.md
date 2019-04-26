@@ -11,3 +11,8 @@ Notes on computer science fundamental algorithms.
     * Insertion Sort
     * Merge Sort
     * Quick Sort
+* Searching/Traversal
+    * Linear Search
+    * Binary Search
+    * Breadth First Search (BFS)
+    * Depth First Search (DFS)
