@@ -16,3 +16,5 @@ Notes on computer science fundamental algorithms.
     * Binary Search
     * Breadth First Search (BFS)
     * Depth First Search (DFS)
+* Dynamic Programming
+    * Memoization
